@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kurniaandi.github.io/handbook-avemy3/sitemap.xml
